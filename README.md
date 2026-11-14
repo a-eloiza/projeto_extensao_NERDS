@@ -11,4 +11,4 @@ Os arquivos disponíveis neste repositório refletem o processo de simplificaç�
 * **`versao_1_assinatura_digital.pdf`**: O texto base. Contém a explicação matemática e os conceitos de segurança e criptografia por trás da assinatura digital.
 * **`assinatura_digital_resumida.pdf`**: A segunda versão do texto, sem termos técnicos da área da computação.
 * **`informações_cartilha.pdf`**: O roteiro resumido, contendo apenas as informações essenciais e os pontos principais que o usuário final precisa saber.
-* **`cartilha.pdf`**: O material final e visual. Contém as informações resumidas a elementos gráficos, tornando o conteúdo amigável e pronto para ser lido por qualquer pessoa.
+* **`cartilha.pdf`**: O material final e visual. Une as informações resumidas a elementos gráficos, tornando o conteúdo amigável e pronto para ser lido por qualquer pessoa.
